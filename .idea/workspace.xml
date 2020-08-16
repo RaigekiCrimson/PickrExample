@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c6d3197a-b25e-4b4c-bb8f-98e9e410314d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="SCSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gA1RQm0YWNT2Dj1awLVvmWNvuQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c6d3197a-b25e-4b4c-bb8f-98e9e410314d" name="Default Changelist" comment="" />
+      <created>1597542575160</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597542575160</updated>
+      <workItem from="1597542576678" duration="1647000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="375" y="450" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1597542694563">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="375" y="450" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/2546.-1451.2560.1400/0.0.2560.1400/2560.-11.1920.1200@0.0.2560.1400" timestamp="1597542694563" />
+    <state x="314" y="482" key="EditFileWatcherDialog" timestamp="1597542709590">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="314" y="482" key="EditFileWatcherDialog/2546.-1451.2560.1400/0.0.2560.1400/2560.-11.1920.1200@0.0.2560.1400" timestamp="1597542709590" />
+  </component>
+</project>
